@@ -1,0 +1,4 @@
+name,username,password,email,account_type,confirmation_code,is_confirmed,Latitude,Longitude: 9
+
+John,Doe,donations,cayac53970@zamaneta.com,Donater,MpVZ1DJMVB,True,40.748056,-73.984836
+John ,Wick,receiver,cayac53970@zamaneta.com,Receiver,1eQ1kk0Gux,True,34.201766,-118.175655
